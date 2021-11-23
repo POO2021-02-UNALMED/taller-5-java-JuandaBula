@@ -1,5 +1,4 @@
 package gestion;
-import java.util.ArrayList;
 
 public class Zoologico {
     private String nombre;

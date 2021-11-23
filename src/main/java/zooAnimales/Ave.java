@@ -2,8 +2,6 @@ package zooAnimales;
 
 import java.util.ArrayList;
 
-//import gestion.Zona;
-
 public class Ave extends Animal{
     private static ArrayList<Ave> listado = new ArrayList<Ave>();
     public static int halcones = 0;
